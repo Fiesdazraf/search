@@ -1,0 +1,125 @@
+.bar {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .bar2 {
+    margin: 5px;
+  }
+  
+  a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: black;
+  }
+  
+  a:hover {
+    color: black;
+    text-decoration: underline;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  .centrizor {
+    justify-content: center;
+    display: flex;
+  }
+  
+  .search-bar{
+      display: flex;
+      z-index: 3;
+      position: relative;
+      min-height: 44px;
+      background: auto;
+      border: 1px solid #5f6368;
+      box-shadow: none;
+      border-radius: 24px;
+      margin: 0 auto;
+      width: 638px;
+      width: 578px;
+      max-width: 584px;
+      margin-top: 10px;
+  }
+  
+  .buttons{
+      background-color: #f8f9fa;
+      border: 1px solid #f8f9fa;
+      border-radius: 4px;
+      color: #3c4043;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      margin: 11px 4px;
+      padding: 0 16px;
+      line-height: 27px;
+      height: 36px;
+      min-width: 54px;
+      text-align: center;
+      cursor: pointer;
+      user-select: none;
+  }
+  
+  .advbar {
+    margin: 25px 35px;
+    color: #d93025;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .gy3Eif {
+    border-bottom: 1px solid #ebebeb;
+  }
+  
+  .findbar{
+    margin: 50px;
+    font: 16px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .row{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .left{
+    width: 200px;
+    font-size: 13px;
+    line-height: 16px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .textinput{
+      width: 571px;
+      text-align: left;
+      border-radius: 1px;
+      -moz-border-radius: 1px;
+      border-radius: 1px;
+      border: 1px solid #d9d9d9;
+      border-top: 1px solid #c0c0c0;
+      font-size: 13px;
+      height: 25px;
+      padding: 1px 8px;
+  }
+  
+  
+  
+  .adv-button{
+      box-shadow: none;
+      background-color: #4d90fe;
+      border: 1px solid #3079ed;
+      color: #fff;
+  }
+  
+  .div-button{
+    display: flex;
+    justify-content: flex-end;
+    width: 838px;
+    margin-top: 10px;
+  }
